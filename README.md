@@ -43,6 +43,17 @@ https://developers.wargaming.net/
 
 設定を保存すると、アプリが再起動して監視を開始します。
 
+## アップデート方法
+
+本アプリは自動アップデートには対応していません  
+アップデート時には、新しいセットアップ用の実行ファイルを起動する必要があります。
+<img width="577" height="470" alt="image" src="https://github.com/user-attachments/assets/d59cea14-8d0b-4c61-b5d0-2ba4c2aed75c" />
+
+アップデートは、追加インストール(Add/Reinstall components)と再インストール(Uninstall XVM-LS)のどちらでも可能ですが、再インストール時に既存のデータを引き継ぎたい場合は「Delete the application data」にチェックを**入れない**ように注意してください。チェックを入れた場合既存のデータおよび設定がすべて削除されてしまいます。
+<img width="571" height="468" alt="image" src="https://github.com/user-attachments/assets/48bacfac-150d-4e01-926a-5be9db32a3a9" />
+
+
+
 ## 普段の使い方
 
 1. XVM-LS を起動します。
