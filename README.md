@@ -37,9 +37,9 @@ https://github.com/user-attachments/assets/11d10836-ce43-471b-9e7b-2fd3e6cbbee0
 
 Wargaming Application ID は [Wargaming Developer Portal](https://developers.wargaming.net/) でアプリケーションを作成すると取得できます。
 
-## ダウンロード方法
+## ダウンロード
 
-最新版は [Releases ページ](https://github.com/bamiyan/XVM-LS/releases)で配布しています。
+最新版は [こちら](https://github.com/bamiyan/XVM-LS/releases/download/v0.1.3/XVM-LS_0.1.0_x64-setup.exe)で配布しています。
 
 1. Releases ページを開き、最新バージョンの Assets からセットアップ用実行ファイル (`XVM-LS_x.x.x_x64-setup.exe`) をダウンロードします。
 2. ダウンロードしたファイルを実行し、インストーラーの指示に従ってインストールします。
