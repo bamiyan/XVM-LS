@@ -4,6 +4,10 @@ XVM-LS は、World of Warships (WoWS) の戦闘ログとリプレイを読み取
 
 ![メイン画面](docs/images/overview.png)
 
+主要な機能は約 2 分のクイックツアー動画でも確認できます。
+
+https://github.com/user-attachments/assets/11d10836-ce43-471b-9e7b-2fd3e6cbbee0
+
 ---
 
 ## 目次
